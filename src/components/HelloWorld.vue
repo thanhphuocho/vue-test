@@ -98,6 +98,8 @@ export default {
 <style scoped>
 h1, h2 {
   font-weight: normal;
+  color: black;
+  font-size: 40px;
 }
 ul {
   list-style-type: none;
