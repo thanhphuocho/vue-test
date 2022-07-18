@@ -2,6 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <h1>Vue</h1>
+    <h2> can phai sua j do</h2>
     <router-view/>
   </div>
 </template>
